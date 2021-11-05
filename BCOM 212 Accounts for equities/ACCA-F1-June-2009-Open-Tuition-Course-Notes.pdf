@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+
+>
+
+<head>
+	<title>Scribd</title>
+	<meta name="verify-v1" content="L4NJcP1bTYOJFMHbpoh8ERVHKc1WzM7/WG+vA6ZncWs=" />
+	<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
+	<meta name="description" content="Scribd is a way to easily put your documents online." />
+	<meta name="keywords" content="documents, document sharing, document publishing, web 2.0, flashpaper, embedded documents, document conversions, word to pdf" />
+					
+	
+	
+	<link href="http://s.scribd.com/stylesheets/web_1241657298.css" media="screen" rel="Stylesheet" type="text/css" />
+	
+	<!--[if gte IE 6]>
+		<link href="http://s.scribd.com/stylesheets/ie_1241657298.css" media="screen" rel="Stylesheet" type="text/css" />
+	<![endif]-->
+	
+	<!--[if gte IE 7]>
+		<link href="http://s.scribd.com/stylesheets/ie7_1241657298.css" media="screen" rel="Stylesheet" type="text/css" />
+	<![endif]-->
+	
+	
+
+	
+  	<script src="http://s.scribd.com/javascripts/base_1241657298.js?1241657329" type="text/javascript"></script>
+
+	
+	
+	
+	
+	
+
+	
+		<link rel="alternate" type="application/rss+xml" title="Scribd RSS feed" href="http://www.scribd.com/feeds/rss" />
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+	
+	
+	
+
+  
+  	<!-- BEGIN Google Ad Manager -->
+	  <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+  	</script>
+	  <script type="text/javascript">
+	    GS_googleAddAdSenseService("ca-pub-7291399211842501");
+  	  GS_googleEnableAllServices();
+	  </script>
+  	<script type="text/javascript">
+	  	GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Upper_Right_250x250");
+		  GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Upper_Right_300x250");
+  		GA_googleAddSlot("ca-pub-7291399211842501", "ABTest_View_Doc_Upper_Right_250x250");
+	  	GA_googleAddSlot("ca-pub-7291399211842501", "ABTest_View_Doc_Upper_Right_300x250");
+		  GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Comments_Top_468x60");
+    	GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Comments_Top_728x90");
+  		GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Comments_Bottom_468x60");
+    	GA_googleAddSlot("ca-pub-7291399211842501", "View_Doc_Comments_Bottom_728x90");
+	  	GA_googleAddSlot("ca-pub-7291399211842501", "Deleted_Doc_Bottom_728x90");
+		  GA_googleAddSlot("ca-pub-7291399211842501", "Deleted_Doc_Top_728x90");
+	  	GA_googleAddSlot("ca-pub-7291399211842501", "Deleted_Doc_Listing_234x60");		
+	  	GA_googleAddSlot("ca-pub-7291399211842501", "Deleted_Doc_Right_336x280");
+  		GA_googleAddSlot("ca-pub-7291399211842501", "Browse_Right_160x600");
+    	GA_googleAddSlot("ca-pub-7291399211842501", "view_doc_upper_right_with_top_leaderboard");
+    	GA_googleAddSlot("ca-pub-7291399211842501", "view_doc_page_top_leaderboard");
+    	GA_googleAddSlot("ca-pub-7291399211842501", "view_doc_page_top_banner");
+
+    	GA_googleAddAdSenseSlotAttr("View_Doc_Upper_Right_300x250", "google_alternate_ad_url", "http://www.scribd.com/ads/rubicon_medium_rectangle");
+    	GA_googleAddAdSenseSlotAttr("View_Doc_Comments_Top_468x60", "google_alternate_ad_url", "http://www.scribd.com/ads/rubicon_banner");
+    	GA_googleAddAdSenseSlotAttr("View_Doc_Comments_Bottom_468x60", "google_alternate_ad_url", "http://www.scribd.com/ads/rubicon_banner");
+  	</script>
+	  <script type="text/javascript">
+	    GA_googleFetchAds();
+  	</script>
+	  <!-- END Google Ad Manager -->
+  
+
+
+	
+    
+    
+    	<script type="text/javascript">if (top!=self) top.location.href=self.location.href;</script>
+	
+</head>
+
+<body>
+	
+	
+	
+	
+  	
+  
+    
+
+	
+
+
+
+	<div id="lightboxes">
+	
+</div>
+	
+	
+
+	<div id="topbar">
+	
+	
+	<div>
+		<div id="logo">
+			<a href="http://www.scribd.com/"><img alt="Scribd" src="http://s.scribd.com/images/logos/logo.gif?1241657298" title="Scribd" /></a>
+		</div>
+        	<script src="http://s.scribd.com/javascripts/category_search_filter.js?1241657298" type="text/javascript"></script>
+
+
+<div id="top_search">
+  <div id="search_categories">
+    <a href="#" class="featured on filter" id="filter_all">All</a>
+    <span class="separator">|</span>
+    <a href="#" class="featured filter" id="filter_146">Books</a>
+<span class="separator">|</span>
+<a href="#" class="featured filter" id="filter_115">Business</a>
+<span class="separator">|</span>
+<a href="#" class="featured filter" id="filter_34">Academic</a>
+    <span class="separator">|</span>
+    <a href="#" id="more_categories">More <img alt="" class="blue_arrow" src="http://s.scribd.com/images/buttons/small_blue_arrow.gif?1241657298" title="" /><img alt="Small_white_arrow" class="white_arrow" src="http://s.scribd.com/images/buttons/small_white_arrow.gif?1241657298" style="display:none" /></a>
+    <ul style="display:none" id="search_filters_menu">
+      <li><a href="#" class="filter" id="filter_69">Brochures & Catalogs</a></li><li><a href="#" class="filter" id="filter_47">Creative Writing</a></li><li><a href="#" class="filter" id="filter_93">How-to-Guides & Manuals</a></li><li><a href="#" class="filter" id="filter_86">Illustrations & Maps</a></li><li><a href="#" class="filter" id="filter_79">Magazines & Newspapers</a></li><li><a href="#" class="filter" id="filter_176">Puzzles & Games</a></li><li><a href="#" class="filter" id="filter_135">Recipes & Menus</a></li><li><a href="#" class="filter" id="filter_54">Research</a></li><li><a href="#" class="filter" id="filter_11">Resumes & CVs</a></li><li><a href="#" class="filter" id="filter_24">Sheet Music & Lyrics</a></li></ul>
+  </div>
+	
+		
+
+
+
+<form action="http://www.scribd.com/search" method="get">
+	<input id="cx" name="cx" type="hidden" value="007890693382555206581:7fgc6et2hmk" />
+	<input id="cof" name="cof" type="hidden" value="FORID:10" />
+	<input id="ie" name="ie" type="hidden" value="UTF-8" />
+	<input id="c" name="c" type="hidden" value="" />
+	<input id="ft" name="ft" type="hidden" value="" />
+	<input class="search_input" id="query" name="q" type="text" />
+	<input class="white_button" name="sa" type="submit" value="Search" />
+</form>
+	
+</div>
+<script type="text/javascript">
+  var categoryNames = {"115":"Business & Law","93":"How-to-Guides & Manuals","all":"All Documents","176":"Puzzles & Games","11":"Resumes & CVs","34":"School Work","79":"Magazines & Newspapers","24":"Sheet Music & Lyrics","146":"Books","69":"Brochures & Catalogs","47":"Creative Writing","135":"Recipes & Menus","86":"Illustrations & Maps","54":"Research"};
+
+  (function() {
+    var featuredLinks = $$('div#search_categories a.featured.filter');
+    var menuLinks = $$('div#search_categories ul a.filter');
+    var menu = $('search_filters_menu');
+    var initialFilter = $('filter_all');
+    var moreLink = $('more_categories');
+
+    new CategorySearchFilter(featuredLinks, menuLinks, moreLink, menu, initialFilter);
+  })();
+</script>
+
+	</div>
+	
+	<div id="login_info">
+		
+		
+			
+		
+			Hello <a href="http://www.scribd.com/ArrowC">ArrowC</a> |
+			
+			<span class="notifications">
+						    <a href="http://www.scribd.com/notifications"><img alt="Email" class="email" src="http://s.scribd.com/images/email.gif?1241657298" /> 0</a> 
+			
+			</span>
+			
+			|
+		
+			<a href="http://www.scribd.com/people/account">Account</a>	|
+			<a href="http://www.scribd.com/logout">Log Out</a> |
+			<a href="http://www.scribd.com/faq">Help</a>
+		
+	</div>
+	
+</div>
+
+<div id="topnav_container">
+	<div id="topnav">
+		
+		
+		<ul>
+							<li ><a href="http://www.scribd.com/">My Scribd</a></li>
+							<li ><a href="http://www.scribd.com/my_docs">My Docs</a></li>
+							<li class="current"><a href="/explore">Explore</a></li>
+							<li ><a href="http://www.scribd.com/groups">Community</a></li>
+					</ul>
+		
+		<div id="upload_button_left">
+			
+				<a href="http://www.scribd.com/upload" class="upload_button"><img alt="Transparent" src="http://s.scribd.com/images/buttons/transparent.gif?1241657298" /></a>
+			
+		</div>
+
+		<ul>
+							
+					
+				
+				<li ><a href="http://www.scribd.com/partners">Partners</a></li>
+					</ul>		
+		
+		<div class="clear"></div>		
+	</div>
+</div>
+
+<div id="top_subtabs_container">
+	<div id="top_subtabs">
+		<ul>
+			 
+		</ul>
+		<div class="clear"></div>	
+	</div>
+</div>
+	
+	
+	
+		<div id="flash_error" class="notice_top" style="display:none"></div>
+		<div id="flash_notice" class="notice_top" style="display:none"></div>
+	
+	
+	
+	
+	
+		<div id="scribd-doc">
+
+	<div class="error_block">
+
+	      <h1>Invalid Download Format</h1>
+	      <p>Sorry, downloading this document in the requested format has been disallowed at the author's request.</p>
+	</div>
+
+</div>
+	
+		
+	<div id="footer_search_container">
+	<div id="footer_search">
+		
+			
+
+
+
+<form action="http://www.scribd.com/search" method="get">
+	<input id="cx" name="cx" type="hidden" value="007890693382555206581:7fgc6et2hmk" />
+	<input id="cof" name="cof" type="hidden" value="FORID:10" />
+	<input id="ie" name="ie" type="hidden" value="UTF-8" />
+	
+	
+	<input class="search_input" id="query" name="q" type="text" />
+	<input class="white_button" name="sa" type="submit" value="Search" />
+</form>
+		
+		
+		<div class="upload_button_container">
+		<a href="http://www.scribd.com/upload?from=bottom_bar" class="upload_button" rel="nofollow"><img alt="Transparent" src="http://s.scribd.com/images/buttons/transparent.gif?1241657298" /></a>
+		</div>
+	    
+	</div>
+	<div id="footer_upload">
+
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+<div id="footer">
+    <div id="footer_cols">
+	<div class="col6">
+		<h5>Scribd</h5>
+		
+        		<ul>
+        			<li><a href="http://www.scribd.com/about" rel="nofollow">About</a></li>
+        			<li><a href="http://www.scribd.com/static/press" rel="nofollow">Press</a></li>
+        			<li><a href="http://www.scribd.com/jobs" rel="nofollow">Jobs</a></li>
+        			<li><a href="http://www.scribd.com/contact" rel="nofollow">Contact</a></li>
+        			<li><a href="http://www.scribd.com/advertising" rel="nofollow">Advertising</a></li>
+        			<li><a href="http://blog.scribd.com/" rel="nofollow">Blog</a></li>
+        		</ul>
+        
+	</div>
+	
+	<div class="col6">
+        <h5>Legal</h5>
+	    <ul>
+            <li><a href="http://www.scribd.com/terms" rel="nofollow">Terms - general</a></li>
+            <li><a href="http://www.scribd.com/publisher/apitos" rel="nofollow">Terms - API</a></li>
+            <li><a href="http://www.scribd.com/copyright" rel="nofollow">Copyright</a></li>
+		</ul>
+    </div>
+	
+	<div class="col6">	
+		<h5>Help &amp; Tools</h5>
+
+        		<ul>
+        		    <li><a href="http://support.scribd.com/forums/33626/entries" rel="nofollow">Getting started</a></li>
+        		    <li><a href="http://support.scribd.com" rel="nofollow">Support</a></li>
+        			<li><a href="http://www.scribd.com/faq" rel="nofollow">FAQ</a></li>
+            	    <li><a href="http://www.scribd.com/ipaper" rel="nofollow">iPaper</a></li>
+                    <li><a href="http://www.scribd.com/tools/uploader" rel="nofollow">Desktop uploader</a></li>
+                    <li><a href="http://www.scribd.com/mobile" rel="nofollow">Scribd Mobile</a></li>
+        		</ul>
+        	
+	</div>
+
+	<div class="col6_last col6">
+		<h5>Partners</h5>
+		<ul>
+			<li><a href="http://www.scribd.com/partners" rel="nofollow">Partners / Publishers</a></li>
+			<li><a href="http://www.scribd.com/developers" rel="nofollow">Developers / API</a></li>
+		</ul>
+	</div>
+	</div>
+	
+	<div class="clear"></div>
+
+</div>
+	
+	
+
+<script src="http://s.scribd.com/javascripts/behaviors_min_1241657298.js?1241657333" type="text/javascript"></script>
+
+
+
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+    pageTracker = _gat._getTracker("UA-443684-2");
+    
+	    pageTracker._setVar('logged_in');
+    
+    pageTracker._trackPageview();
+    
+    pageTrackerCustom = _gat._getTracker("UA-443684-5");    
+</script>
+
+
+
+
+
+	<script>
+	
+	    trackPageViewCustom("logged_in/word/bad_format");
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+	</script>
+
+
+
+
+<!-- Start Quantcast tag -->
+
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <script type="text/javascript">_qacct="p-13DPpb-yg8ofc";quantserve();</script>
+  <noscript>
+    <a href="http://www.quantcast.com/p-13DPpb-yg8ofc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-13DPpb-yg8ofc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+  </noscript>
+
+<!-- End Quantcast tag -->
+
+
+
+
+	
+	
+
+	<script type="text/javascript">
+	if((typeof(window['GA_CUSTOM']) != "undefined") && (typeof(window['GA']) != "undefined"))
+	{
+		GA_CUSTOM.attachAll();
+		GA.attachAll();		
+	}
+	</script>	
+		
+</body>
+</html>
